@@ -1,0 +1,54 @@
+{
+  "term": "Summer",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "legacy_uid": "0bafb88e-4f95-7dc9-b920-557840b0a18c",
+  "instructors": {
+    "content": [
+      "a6ff560b-11ac-59fa-568f-43e9e57fe89f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c9cc72af-3aa4-c283-21f0-9fbeedb02051",
+    "website": "15-414-financial-management-summer-2003"
+  },
+  "course_title": "Financial Management",
+  "course_description": "Financial Management studies corporate finance and capital markets, emphasizing the financial aspects of managerial decisions. It touches on all areas of finance, including the valuation of real and financial assets, risk management and financial derivatives, the trade-off between risk and expected return, and corporate financing and dividend policy. The course draws heavily on empirical research to help guide managerial decisions.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.414",
+  "course_image_thumbnail": {
+    "content": "ff897576-9b1d-7550-49ae-8bfc2044873b",
+    "website": "15-414-financial-management-summer-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "f95c0309-a4df-426c-a515-5ff6b57d2ab4",
+  "site_short_id": "15.414-summer-2003",
+  "site_url_path": "courses/15-414-financial-management-summer-2003",
+  "title": "Course Metadata"
+}
