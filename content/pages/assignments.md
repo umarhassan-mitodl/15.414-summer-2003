@@ -3,6 +3,8 @@ content_type: page
 description: Microsoft? Excel software is recommended for viewing the .xls files in
   this section. Free Microsoft? Excel viewer software can also be used to view the
   .xls files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
