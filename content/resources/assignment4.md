@@ -4,8 +4,6 @@ description: This file contains questions on the topic Discount rates.
 file: /courses/15-414-financial-management-summer-2003/c74129c98ef88b075b2369fa4b276597_assignment4.pdf
 file_size: 102618
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

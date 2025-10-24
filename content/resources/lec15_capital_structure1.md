@@ -4,8 +4,6 @@ description: Capital Structure (1)
 file: /courses/15-414-financial-management-summer-2003/891ff907d8be176e9d4eba1beebde163_lec15_capital_structure1.pdf
 file_size: 275715
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
